@@ -1,0 +1,34 @@
+_repo: M-moires-de-Vidocq-chef-de-la-police-de-Suret--jusqu-en-1827-tome-I_38057
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vidocq, Eugène François
+    aliases:
+    - Vidocq, François
+    - Vidocq, Eugene Francois
+    birthdate: 1775
+    deathdate: 1857
+    gutenberg_agent_id: '6191'
+    url: http://www.gutenberg.org/2009/agents/6191
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_François_Vidocq
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38057'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detectives -- France -- Biography'
+- !lcsh 'Criminals -- France'
+- !lcc 'HV'
+- !lcsh 'Vidocq, Eugène François, 1775-1857'
+- !lcsh 'Crime -- France'
+title: Mémoires de Vidocq, chef de la police de Sureté jusqu'en 1827, tome I
+url: http://www.gutenberg.org/ebooks/38057
